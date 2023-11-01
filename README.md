@@ -1,5 +1,3 @@
-### Hi there 👋
-
 👋 Hi, I’m Tetiana.
 
 💼 I am a data analyst with a background in research, currently based in France.
