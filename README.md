@@ -1,6 +1,6 @@
 👋 Hi, I’m Tetiana.
 
-💼 I am a data analyst with a background in research, currently based in France.
+💼 Currently, I am making a transition from a field of research into data analytics.
 
 💞️ I am passionate about data analysis, data visualization, and design.
 
